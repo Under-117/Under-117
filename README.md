@@ -1,4 +1,4 @@
-## Bom dia! Under#4935
+## Hello there! Discord: Under#4935
 <div align="center">
   <a href="https://github.com/Under-117">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Under-117&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
